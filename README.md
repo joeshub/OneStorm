@@ -13,6 +13,9 @@ Coming Soon
 * Console
 * Scope
 
+# Screenshot
+![OneStorm theme](https://raw.githubusercontent.com/joeshub/OneStorm/master/screenshot.png "OneStorm color theme for WebStorm")
+
 ## Installation
 
 ### Mac OS X 10.11
