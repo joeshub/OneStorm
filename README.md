@@ -1,5 +1,5 @@
 # OneStorm
-A color scheme for the Jetbrains WebStorm / PHPStorm / IntelliJ IDE.
+A color scheme for the Jetbrains WebStorm / PhpStorm / IntelliJ IDE.
 
 ![OneStorm theme](https://raw.githubusercontent.com/joeshub/OneStorm/master/screenshot.png "OneStorm color theme for WebStorm")
 
