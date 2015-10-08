@@ -1,11 +1,9 @@
 # OneStorm
-A color scheme for the Jetbrains WebStorm / PHPStorm / IntelliJ IDE based on the One Dark Atom theme.
+A color scheme for the Jetbrains WebStorm / PHPStorm / IntelliJ IDE.
 
 ![OneStorm theme](https://raw.githubusercontent.com/joeshub/OneStorm/master/screenshot.png "OneStorm color theme for WebStorm")
 
-Best with the Darkula Theme
-
-Optimized for:
+## Optimized for:
 * JavaScript
 * Diffs
 
@@ -35,6 +33,7 @@ If necessary choose the `Fira Mono Medium` font from `Editor > Color and Fonts >
 You will need to un-check the `Show only monospaced fonts` option to see the custom fonts you placed in your JDK folder
 
 ## Notes:
+* Best used with the JetBrains Darkula Theme
 
 * Based on the awesome One Dark theme for Atom https://github.com/atom/one-dark-ui
 
