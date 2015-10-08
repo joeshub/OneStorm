@@ -35,8 +35,11 @@ You will need to un-check the `Show only monospaced fonts` option to see the cus
 ## Notes:
 * Best used with the JetBrains Darkula Theme
 
-* Based on the awesome One Dark theme for Atom https://github.com/atom/one-dark-ui
+* Based on the awesome One Dark theme for Atom
+https://github.com/atom/one-dark-ui
 
-* Font used in this theme is Fira Mono Medium from Mozilla https://mozilla.github.io/Fira/
+* Font used in this theme is Fira Mono Medium from Mozilla
+https://mozilla.github.io/Fira/
 
-* Minimap used in the screenshot via the CodeGlance plugin https://github.com/Vektah/CodeGlance
+* Minimap used in the screenshot via the CodeGlance plugin
+https://github.com/Vektah/CodeGlance
