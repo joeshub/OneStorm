@@ -13,18 +13,18 @@
     <option name="DELETED_LINES_COLOR" value="" />
     <option name="FILESTATUS_ADDED" value="98c379" />
     <option name="FILESTATUS_COPIED" value="98c379" />
-    <option name="FILESTATUS_DELETED" value="bf0010" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_DELETED" value="e06c75" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="e06c75" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="a22120" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="a22120" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="a22120" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="61afef" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="61afef" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="61afef" />
     <option name="FILESTATUS_RENAMED" value="457aa4" />
-    <option name="FILESTATUS_UNKNOWN" value="e06c75" />
+    <option name="FILESTATUS_UNKNOWN" value="98c379" />
     <option name="FILESTATUS_addedOutside" value="98c379" />
     <option name="FILESTATUS_changelistConflict" value="e06c75" />
     <option name="FILESTATUS_modifiedOutside" value="61afef" />
