@@ -3,6 +3,16 @@ A color scheme for the Jetbrains WebStorm / PHPStorm / IntelliJ IDE based on the
 
 Woks best with the Darkula Theme
 
+Optimized for:
+* JavaScript
+* Diffs
+
+Coming Soon
+* HTML
+* CSS
+* Console
+* Scope
+
 ## Installation
 
 ### Mac OS X 10.11

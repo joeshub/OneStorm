@@ -13,6 +13,6 @@ function AjaxRequest(url) {
   var a = "\u1111\z\n\u11";
   this.foo = new function() {};
   foo();
-  #
+  #`
 }
 
