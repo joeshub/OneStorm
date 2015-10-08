@@ -1,7 +1,9 @@
 # OneStorm
 A color scheme for the Jetbrains WebStorm / PHPStorm / IntelliJ IDE based on the One Dark Atom theme.
 
-Woks best with the Darkula Theme
+![OneStorm theme](https://raw.githubusercontent.com/joeshub/OneStorm/master/screenshot.png "OneStorm color theme for WebStorm")
+
+Best with the Darkula Theme
 
 Optimized for:
 * JavaScript
@@ -12,9 +14,6 @@ Coming Soon
 * CSS
 * Console
 * Scope
-
-# Screenshot
-![OneStorm theme](https://raw.githubusercontent.com/joeshub/OneStorm/master/screenshot.png "OneStorm color theme for WebStorm")
 
 ## Installation
 
