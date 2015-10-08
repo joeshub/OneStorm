@@ -10,17 +10,17 @@ Woks best with the Darkula Theme
 * Quit out of WebStorm
 
 * Copy the OneStorm.icls file from this repo to your IDEA folder at this path:
-~/Library/Preferences/WebIde90/colors
+`~/Library/Preferences/WebIde90/colors`
 
 * Install the latest 1.8.xx JDK to make sure you are getting retina and font support
 http://www.oracle.com/technetwork/java/javase/downloads/
 
 * Download the Fira font zip file https://github.com/mozilla/Fira
-Extract the .ttf files to /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/fonts
+Extract the .ttf files to `/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/fonts`
 
-* Start the IDE and choose OneStorm scheme from the Editor > Color and Fonts menu
-If necessary choose the Fira Mono Medium font from Editor > Color and Fonts > Font
-You will need to uncheck the 'Show only monospaced fonts' option to see the custom fonts you placed in your JDK folder
+* Start the IDE and choose OneStorm scheme from the `Editor > Color and Fonts` menu
+If necessary choose the `Fira Mono Medium` font from `Editor > Color and Fonts > Font`
+You will need to un-check the `Show only monospaced fonts` option to see the custom fonts you placed in your JDK folder
 
 ## Notes:
 
