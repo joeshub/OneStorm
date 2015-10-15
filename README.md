@@ -20,7 +20,7 @@ Coming Soon
 * Quit out of WebStorm
 
 * Copy the OneStorm.icls file from this repo to your IDEA folder at this path:  
-`~/Library/Preferences/WebIde90/colors` 
+`~/Library/Preferences/WebIde90/colors`  
 Other possible folder names: `IntelliJIdea13 IdeaIC13 WebIDE70 WebIDE80 WebStorm8`  
 
 * Install the latest 1.8.xx JDK to make sure you are getting retina and font support  
